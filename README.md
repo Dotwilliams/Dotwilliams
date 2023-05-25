@@ -11,10 +11,15 @@
   - [Agrobase-Website (Company Portfolio Web Page](https://github.com/Dotwilliams/Agrobase-websites-)
   - [AHS-Farm](https://github.com/Dotwilliams/AHS-farm)
   - [Saachi-Tomatoes (Company Portfolio Web Page)](https://github.com/Dotwilliams/Saachi-Tomatoes-)
-  - 
+  - [Sneakers-App](https://github.com/Dotwilliams/Sneakers-App)
+  - [MInce: Membership website](https://github.com/Dotwilliams/MInce)
+  - [Mince-Community](https://github.com/Dotwilliams/Mince-Community-)
+
+
 - <b>Website Features (Navbars, Sliders, Carousel, Preloaders, Cards)</b>
   - [Expanding Cards](https://github.com/Dotwilliams/dev)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Geographical Google Map (Google Api)](https://github.com/Dotwilliams/Geographical-Google-Api-Map)
+  - [Image Preloader](https://github.com/Dotwilliams/Image-preloader)
   
 
 <h2> 📜 Certification & CV 📜</h2>
@@ -24,7 +29,8 @@
 
 - [An online E-commerce flower shop](https://www.regalflowers.com.ng/)
 - [An online E-commerce flower shop ](https://www.floralhub.com.ng/)
-- [Re-design Floralhub E-commerce Store ](https://www.figma.com/proto/RfhoDuryt2N2lZ9Mx5qzUk/Floral-Hub?node-id=288-49820&starting-point-node-id=288%3A49820&show-proto-sidebar=1)
+- [Re-design Floralhub E-commerce Store (figma) ](https://www.figma.com/proto/RfhoDuryt2N2lZ9Mx5qzUk/Floral-Hub?node-id=288-49820&starting-point-node-id=288%3A49820&show-proto-sidebar=1)
+- [Mince Community (Wirefame) ](https://us.docworkspace.com/d/sIGDgmphalsa8owY)
 - [Fosaorganicfarm Company Portfolio ](https://fosaorganicfarm.com.ng/)
 - [Hundredperccentwealth Blog website](https://www.hundredperccentwealth.com/)
 
