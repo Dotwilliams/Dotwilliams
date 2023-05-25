@@ -22,7 +22,8 @@
   - [Image Preloader](https://github.com/Dotwilliams/Image-preloader)
   
 
-<h2> 📜 Certification & CV 📜</h2>
+ <b> <h2> 📜 Curriculum Vitae (CV) 📜</h2> </b>
+- [My CV ](https://us.docworkspace.com/d/sIErgmpha49S8owY)
   
 
 <h2> Some Live📺 Projects</h2>
