@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dotun Williams! <br/><a href="https://github.com/joshmadakor1">Full Stack Web Developer</a>, <a href="">UI/UX  Designer</a>, <a href="">Software Enginner</a></h1>
+<h1>Hi, I'm Dotun Williams! <br/><a href="https://github.com/joshmadakor1">Full-Stack Web Developer</a>, <a href="">UI/UX  Designer</a>, <a href="">Software Engineer </a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <hr>
@@ -17,6 +17,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   
 
+<h2> 📜 Certification & CV 📜</h2>
   
 
 <h2> Some Live📺 Projects</h2>
@@ -26,6 +27,8 @@
 - [Re-design Floralhub E-commerce Store ](https://www.figma.com/proto/RfhoDuryt2N2lZ9Mx5qzUk/Floral-Hub?node-id=288-49820&starting-point-node-id=288%3A49820&show-proto-sidebar=1)
 - [Fosaorganicfarm Company Portfolio ](https://fosaorganicfarm.com.ng/)
 - [Hundredperccentwealth Blog website](https://www.hundredperccentwealth.com/)
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
